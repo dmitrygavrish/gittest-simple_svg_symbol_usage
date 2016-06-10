@@ -1,0 +1,18 @@
+.icon {
+    width: 100px;
+    height: 100px;
+    border-radius: 25%;
+    box-shadow: 2px 2px 2px 0 black;
+}
+.icon_chemistry {
+    fill: #99ff55;
+    background-color: #ffffcc;
+}
+.icon_shark {
+    fill: #2376aa;
+    background-color: #ccddff;
+}
+
+body {
+    padding: 20px;
+}
